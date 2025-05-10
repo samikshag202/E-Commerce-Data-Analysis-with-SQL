@@ -1,4 +1,5 @@
 📦 Project: SQL-Based E-Commerce Data Analysis
+
 📝 Background
 Amazon, a global leader in e-commerce, has achieved significant success in markets like the U.S., Europe, and Asia. In Brazil, Amazon connects small and medium businesses with millions of customers, becoming a key player. Given the similarities between Brazil and India—such as large populations and diverse consumer bases—there’s an opportunity to replicate this success in India.
 
